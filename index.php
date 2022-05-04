@@ -13,6 +13,7 @@
 	<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/js/bootstrap.min.js"></script>
 	<style>
 		body {
+
 			color: #999;
 			background: #f3f3f3;
 			font-family: 'Roboto', sans-serif;
